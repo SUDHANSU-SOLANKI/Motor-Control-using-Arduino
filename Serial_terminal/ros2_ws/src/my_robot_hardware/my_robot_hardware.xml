@@ -1,0 +1,10 @@
+<library path="my_robot_hardware">
+  <class
+    name="my_robot_hardware/MyRobotHardware"
+    type="my_robot_hardware::MyRobotHardware"
+    base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ros2_control hardware interface for Arduino-based differential drive robot
+    </description>
+  </class>
+</library>

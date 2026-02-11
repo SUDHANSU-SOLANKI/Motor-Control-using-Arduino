@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating serial_motor_node.egg-info
+writing serial_motor_node.egg-info/PKG-INFO
+writing dependency_links to serial_motor_node.egg-info/dependency_links.txt
+writing entry points to serial_motor_node.egg-info/entry_points.txt
+writing requirements to serial_motor_node.egg-info/requires.txt
+writing top-level names to serial_motor_node.egg-info/top_level.txt
+writing manifest file 'serial_motor_node.egg-info/SOURCES.txt'
+reading manifest file 'serial_motor_node.egg-info/SOURCES.txt'
+writing manifest file 'serial_motor_node.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/lib/python3.10/site-packages/serial-motor-node.egg-link (link to .)
+Installing serial_node script to /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/lib/serial_motor_node
+
+Installed /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node
+running symlink_data
+creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index
+creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index/resource_index
+creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index/resource_index/packages
+symbolically linking /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/resource/serial_motor_node -> /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index/resource_index/packages
+symbolically linking /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/package.xml -> /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/serial_motor_node

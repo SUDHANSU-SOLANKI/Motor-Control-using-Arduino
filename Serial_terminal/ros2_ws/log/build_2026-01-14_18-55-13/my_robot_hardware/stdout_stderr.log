@@ -1,0 +1,68 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found hardware_interface: 2.51.0 (/opt/ros/humble/share/hardware_interface/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/my_robot_hardware
+[ 50%] [32mBuilding CXX object CMakeFiles/my_robot_hardware.dir/src/my_robot_hardware.cpp.o[0m
+[01m[K/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/src/my_robot_hardware/src/my_robot_hardware.cpp:[m[K In function ‘[01m[Kint my_robot_hardware::open_serial(const string&, int)[m[K’:
+[01m[K/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/src/my_robot_hardware/src/my_robot_hardware.cpp:15:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kbaudrate[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   15 | int open_serial(const std::string &port, [01;35m[Kint baudrate[m[K)
+      |                                          [01;35m[K~~~~^~~~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library libmy_robot_hardware.so[0m
+[100%] Built target my_robot_hardware
+-- Install configuration: ""
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/my_robot_hardware.xml
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/lib/libmy_robot_hardware.so
+-- Set runtime path of "/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/lib/libmy_robot_hardware.so" to ""
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/include
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/include/my_robot_hardware
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/include/my_robot_hardware/my_robot_hardware.hpp
+-- Up-to-date: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/my_robot_hardware.xml
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/ament_index/resource_index/package_run_dependencies/my_robot_hardware
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/ament_index/resource_index/parent_prefix_path/my_robot_hardware
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/environment/ament_prefix_path.sh
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/environment/ament_prefix_path.dsv
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/environment/path.sh
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/environment/path.dsv
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/local_setup.bash
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/local_setup.sh
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/local_setup.zsh
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/local_setup.dsv
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/package.dsv
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/ament_index/resource_index/packages/my_robot_hardware
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/my_robot_hardware
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/cmake/my_robot_hardwareConfig.cmake
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/cmake/my_robot_hardwareConfig-version.cmake
+-- Installing: /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/my_robot_hardware/share/my_robot_hardware/package.xml

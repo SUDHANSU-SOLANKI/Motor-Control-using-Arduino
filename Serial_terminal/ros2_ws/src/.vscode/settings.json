@@ -1,0 +1,21 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/sudhansu/build/my_robot_controller",
+        "/home/sudhansu/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/sudhansu/Desktop/ROS2/ros2_workspace/install/urdf_rviz_r2d2/lib/python3.10/site-packages",
+        "/home/sudhansu/Desktop/ROS2/ros2_workspace/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/sudhansu/Desktop/ROS2/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sudhansu/build/my_robot_controller",
+        "/home/sudhansu/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/sudhansu/Desktop/ROS2/ros2_workspace/install/urdf_rviz_r2d2/lib/python3.10/site-packages",
+        "/home/sudhansu/Desktop/ROS2/ros2_workspace/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/sudhansu/Desktop/ROS2/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

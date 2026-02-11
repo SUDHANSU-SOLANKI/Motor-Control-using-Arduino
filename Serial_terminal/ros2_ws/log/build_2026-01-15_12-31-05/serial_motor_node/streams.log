@@ -1,0 +1,24 @@
+[0.692s] Invoking command in '/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node': PYTHONPATH=/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/build --no-deps symlink_data
+[0.982s] running develop
+[1.146s] running egg_info
+[1.146s] creating serial_motor_node.egg-info
+[1.146s] writing serial_motor_node.egg-info/PKG-INFO
+[1.147s] writing dependency_links to serial_motor_node.egg-info/dependency_links.txt
+[1.147s] writing entry points to serial_motor_node.egg-info/entry_points.txt
+[1.147s] writing requirements to serial_motor_node.egg-info/requires.txt
+[1.147s] writing top-level names to serial_motor_node.egg-info/top_level.txt
+[1.147s] writing manifest file 'serial_motor_node.egg-info/SOURCES.txt'
+[1.149s] reading manifest file 'serial_motor_node.egg-info/SOURCES.txt'
+[1.149s] writing manifest file 'serial_motor_node.egg-info/SOURCES.txt'
+[1.151s] running build_ext
+[1.151s] Creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/lib/python3.10/site-packages/serial-motor-node.egg-link (link to .)
+[1.152s] Installing serial_node script to /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/lib/serial_motor_node
+[1.152s] 
+[1.152s] Installed /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node
+[1.152s] running symlink_data
+[1.152s] creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index
+[1.152s] creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index/resource_index
+[1.152s] creating /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index/resource_index/packages
+[1.152s] symbolically linking /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/resource/serial_motor_node -> /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/ament_index/resource_index/packages
+[1.152s] symbolically linking /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/package.xml -> /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/share/serial_motor_node
+[1.193s] Invoked command in '/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node' returned '0': PYTHONPATH=/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/install/serial_motor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sudhansu/Desktop/Arduino/Serial_terminal/ros2_ws/build/serial_motor_node/build --no-deps symlink_data
